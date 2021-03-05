@@ -219,7 +219,7 @@ const slider = function () {
   btnRight.addEventListener('click', nextSlide);
   btnLeft.addEventListener('click', previousSlide);
 
-  /*Scoll left/right using arrow keys*/
+  /*Scroll left/right using arrow keys*/
 
   document.addEventListener('keydown', function (e) {
     // console.log(e);
